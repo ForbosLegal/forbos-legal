@@ -10,7 +10,7 @@ Repositório público com documentos legais dos produtos Forbos.
 
 Hospedado via GitHub Pages:
 
-- Política de privacidade Forbos Motorista: <https://forbos-adm.github.io/forbos-legal/privacidade-app-motorista/>
+- Política de privacidade Forbos Motorista: <https://forboslegal.github.io/forbos-legal/privacidade-app-motorista/>
 
 ## Mantenedor
 
